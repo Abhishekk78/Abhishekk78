@@ -30,7 +30,7 @@
 <a href="https://instagram.com/abhi__j_pandya_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi__j_pandya_78" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abhishek pandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhishek pandya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishek-pandya-8449b7250/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="abhishek pandya" height="30" width="40" /></a> 
-<a href="abhishekpandya410@gmail.com" target="blank"><img align="center" src="https://www.shutterstock.com/image-vector/gomel-belarus-january-29-2024-260nw-2418935307.jpg" alt="abhishek pandya" height="30" width="40" /></a>   
+<a href="https://mail.google.com/mail/u/0/" target="blank"><img align="center" src="https://www.shutterstock.com/image-vector/gomel-belarus-january-29-2024-260nw-2418935307.jpg" alt="abhishek pandya" height="30" width="40" /></a>   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

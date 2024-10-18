@@ -29,6 +29,7 @@
 <a href="https://fb.com/abhishek pandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek pandya" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi__j_pandya_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi__j_pandya_78" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abhishek pandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhishek pandya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-pandya-8449b7250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="abhishek pandya" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
